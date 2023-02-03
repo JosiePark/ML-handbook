@@ -3,9 +3,8 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: supervised/supervised
-  sections:
-    - file: supervised/regression
-- file: unsupervised/unsupervised
-- file: timeseries/timeseries
+parts:
+- caption: Chapters
+  numbered: true
+  chapters:
+  - file: supervised
