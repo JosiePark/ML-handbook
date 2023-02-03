@@ -7,4 +7,6 @@ parts:
 - caption: Chapters
   numbered: true
   chapters:
-  - file: supervised
+  - file: supervised/supervised
+  sections:
+    - file: supervised/linear_regression
