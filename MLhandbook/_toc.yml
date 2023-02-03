@@ -8,5 +8,5 @@ parts:
   numbered: true
   chapters:
   - file: supervised/supervised
-  sections:
-    - file: supervised/linear_regression
+    sections:
+      - file: supervised/linear_regression
